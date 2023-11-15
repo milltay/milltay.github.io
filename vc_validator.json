@@ -1,6 +1,6 @@
 {
-  "name": "VALIDATOR_NAME", /* Name of the validator */
+  "name": "zeroFees", /* Name of the validator */
   "logoUrl": "LOGO_URL", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough */
-  "website": "WEBSITE_URL", /* Website icon on the right */
-  "contact": "CONTACT_URL" /* Contact icon on the right */
+  "website": "https://twitter.com/milltayishere", /* Website icon on the right */
+  "contact": "https://twitter.com/milltayishere" /* Contact icon on the right */
 }
