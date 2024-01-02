@@ -1,6 +1,6 @@
 {
-  "name": "VinuFoundationNode1", /* Name of the validator */
-  "logoUrl": "LOGO_URL", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px is enough */
-  "website": "https://vinuchain.org/", /* Website icon on the right */
-  "contact": "https://t.me/milltayishere" /* Contact icon on the right */
+  "name": "VinuFoundationNode1", 
+  "logoUrl": "LOGO_URL", 
+  "website": "https://vinuchain.org/", 
+  "contact": "https://t.me/milltayishere" 
 }
